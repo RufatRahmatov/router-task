@@ -1,0 +1,21 @@
+.about {
+  text-align: center;
+  list-style: none;
+
+  h1 {
+    color: #4682b4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .icon {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+    }
+  }
+
+  p {
+    font-size: 18px;
+  }
+}

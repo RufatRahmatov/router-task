@@ -1,0 +1,30 @@
+.contact {
+  text-align: center;
+}
+.contact h1 {
+  color: #ff4500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact h1 .icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.contact p {
+  font-size: 18px;
+}
+.contact button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff6347;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.contact button:hover {
+  background-color: #ff4500;
+}/*# sourceMappingURL=Contact.css.map */

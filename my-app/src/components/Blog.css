@@ -1,0 +1,17 @@
+.blog {
+  text-align: center;
+}
+.blog h1 {
+  color: #32cd32;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blog h1 .icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.blog p {
+  font-size: 18px;
+}/*# sourceMappingURL=Blog.css.map */

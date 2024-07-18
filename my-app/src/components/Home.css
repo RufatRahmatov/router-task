@@ -1,0 +1,17 @@
+.home {
+  text-align: center;
+}
+.home h1 {
+  color: #ff6347;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home h1 .icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.home p {
+  font-size: 18px;
+}/*# sourceMappingURL=Home.css.map */
